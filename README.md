@@ -4,7 +4,7 @@
 
 > 🎓 Game Development Student (5+ Yrs)<br>  
 > ⚔️ Specializes in immersive gameplay, systems design, and 3D creation<br>  
-> 🧪 Currently grinding Unity shader skills and C# meta systems<br>
+> 🧪 Currently expanding C# knowledge, Lua knowledge, and knowledge in 3D/2D art.<br>
 
 ## 🧰 Toolbelt & Loadout<br>
 ### 🖥️ Languages<br>
@@ -17,18 +17,9 @@
 ![DevT](https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,rider&perline=3)<br>
 
 ---
-
 ## 🎯 Highlighted Projects<br>
-[![Ninjutsu Database](https://github-readme-stats.vercel.app/api/pin/?username=Wildeaso1&repo=Ninjutsu-DataBase&theme=tokyonight&show_icons=true)](https://github.com/Wildeaso1/Ninjutsu-DataBase)<br> 
-A custom C# app to catalog ninja techniques, inspired by Naruto lore.<br>
-![C#](https://skillicons.dev/icons?i=cs)<br>
-`Skills:` Data Management, Filtering<br>
-
----
-[![Bendy And The Pipe Dream](https://github-readme-stats.vercel.app/api/pin/?username=WizelfMike&repo=BendyAndTheInkMachine&theme=tokyonight&show_icons=true)](https://github.com/WizelfMike/BendyAndTheInkMachine)<br>
-A fan made recreation of the starting scene of Bendy And The Ink Machine. Created in Unity<br>
-![Bendy](https://skillicons.dev/icons?i=cs,unity,blender)<br>
-`Skills:` Game Development, Game Design, Collaboration<br>
+[![Ninjutsu Database](https://github-readme-stats.vercel.app/api/pin/?username=Wildeaso1&repo=Ninjutsu-DataBase&theme=tokyonight&show_icons=true)](https://github.com/Wildeaso1/Ninjutsu-DataBase)
+[![Bendy And The Pipe Dream](https://github-readme-stats.vercel.app/api/pin/?username=WizelfMike&repo=BendyAndTheInkMachine&theme=tokyonight&show_icons=true)](https://github.com/WizelfMike/BendyAndTheInkMachine)
 
 ---
 <h3 align="center">
