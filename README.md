@@ -5,7 +5,7 @@
 > Game Development Student (5+ Yrs)<br>  
 > Currently expanding C# knowledge, Lua knowledge, and knowledge in 3D/2D art.<br>
 
-## Toolbelt & Loadout<br>
+## Toolbelt<br>
 ### Languages<br>
 ![Languages](https://skillicons.dev/icons?i=cs,js,html,lua)<br>
 ### Game Engines<br>
