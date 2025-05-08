@@ -22,8 +22,8 @@
 
 ---
 <h2 align="center">
-  
-Social Links<br>
+Contact!<br>
+<br>
 <a href="https://www.williamsoijer.com">
   <img src="https://img.shields.io/badge/Portfolio-FF7139?logo=Firefox&logoColor=white" width="100"/>
 </a>
