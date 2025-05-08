@@ -7,13 +7,13 @@
 
 ## Toolbelt<br>
 ### Languages<br>
-![Languages](https://skillicons.dev/icons?i=cs,js,html,lua)<br>
+![Languages](https://skillicons.dev/icons?i=cs,js,html,lua)
 ### Game Engines<br>
-![Engines](https://skillicons.dev/icons?i=unity)<br>
+![Engines](https://skillicons.dev/icons?i=unity)
 ### Design Tools<br>
-![Design](https://skillicons.dev/icons?i=blender,ps)<br>
+![Design](https://skillicons.dev/icons?i=blender,ps)
 ### Dev Tools<br>
-![DevT](https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,rider&perline=3)<br>
+![DevT](https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,rider&perline=3)
 
 ---
 ## Highlighted Projects<br>
