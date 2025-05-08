@@ -22,10 +22,14 @@
 [![Bendy And The Pipe Dream](https://github-readme-stats.vercel.app/api/pin/?username=WizelfMike&repo=BendyAndTheInkMachine&theme=tokyonight&show_icons=true)](https://github.com/WizelfMike/BendyAndTheInkMachine)
 
 ---
-<h3 align="center">
+<h2 align="center">
   
 📡 Social Links<br>
-[![Portfolio](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](https://www.williamsoijer.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/william-soijer-517962237/)
-</h3>
+<a href="https://www.williamsoijer.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF7139?logo=Firefox&logoColor=white" width="100"/>
+</a>
+<a href="https://www.linkedin.com/in/william-soijer-517962237/">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="100"/>
+</a>
+</h2>
 
