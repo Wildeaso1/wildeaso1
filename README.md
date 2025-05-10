@@ -1,6 +1,6 @@
 # Wildeaso1 // Game Developer<br>
-![Wildeaso1's GitHub stats](https://github-readme-stats-wildeaso1s-projects.vercel.app/api?username=Wildeaso1&show_icons=true&theme=tokyonight&hide_rank=false)<br> 
-![Top Langs](https://github-readme-stats-wildeaso1s-projects.vercel.app/api/top-langs/?username=Wildeaso1&layout=compact&theme=tokyonight)<br>
+![Wildeaso1's GitHub stats](https://github-readme-stats-git-master-wildeaso1s-projects.vercel.app/api?username=Wildeaso1&show_icons=true&theme=tokyonight&hide_rank=false)<br> 
+![Top Langs](https://github-readme-stats-git-master-wildeaso1s-projects.vercel.app/api/top-langs/?username=Wildeaso1&layout=compact&theme=tokyonight)<br>
 
 > Game Development Student (5+ Yrs)<br>  
 > Currently expanding C# knowledge, Lua knowledge, and knowledge in 3D/2D art.<br>
@@ -17,8 +17,7 @@
 
 ---
 ## Highlighted Projects<br>
-[![Ninjutsu Database](https://github-readme-stats-wildeaso1s-projects.vercel.app/api/pin/?username=Wildeaso1&repo=Ninjutsu-DataBase&theme=tokyonight&show_icons=true)](https://github.com/Wildeaso1/Ninjutsu-DataBase)
-[![Sakura Busdriver](https://github-readme-stats-wildeaso1s-projects.vercel.app/api/pin/?username=Wildeaso1&repo=Sakura-Busdriver&theme=tokyonight&show_icons=true)](https://github.com/Wildeaso1/Sakura-Busdriver)
+[![Ninjutsu Database](https://github-readme-stats-git-master-wildeaso1s-projects.vercel.app/api/pin/?username=Wildeaso1&repo=Ninjutsu-DataBase&theme=tokyonight&show_icons=true)](https://github.com/Wildeaso1/Ninjutsu-DataBase)
 
 ---
 <h2 align="center">
