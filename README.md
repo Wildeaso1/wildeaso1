@@ -1,6 +1,6 @@
 # Wildeaso1 // Game Developer<br>
-![Wildeaso1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wildeaso1&show_icons=true&theme=tokyonight&hide_rank=false)<br> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wildeaso1&layout=compact&theme=tokyonight)<br>
+![Wildeaso1's GitHub stats](https://github-readme-stats-wildeaso1s-projects.vercel.app/api?username=Wildeaso1&show_icons=true&theme=tokyonight&hide_rank=false)<br> 
+![Top Langs](https://github-readme-stats-wildeaso1s-projects.vercel.app/api/top-langs/?username=Wildeaso1&layout=compact&theme=tokyonight)<br>
 
 > Game Development Student (5+ Yrs)<br>  
 > Currently expanding C# knowledge, Lua knowledge, and knowledge in 3D/2D art.<br>
@@ -17,8 +17,8 @@
 
 ---
 ## Highlighted Projects<br>
-[![Ninjutsu Database](https://github-readme-stats.vercel.app/api/pin/?username=Wildeaso1&repo=Ninjutsu-DataBase&theme=tokyonight&show_icons=true)](https://github.com/Wildeaso1/Ninjutsu-DataBase)
-[![Bendy And The Pipe Dream](https://github-readme-stats.vercel.app/api/pin/?username=WizelfMike&repo=BendyAndTheInkMachine&theme=tokyonight&show_icons=true)](https://github.com/WizelfMike/BendyAndTheInkMachine)
+[![Ninjutsu Database](https://github-readme-stats-wildeaso1s-projects.vercel.app/api/pin/?username=Wildeaso1&repo=Ninjutsu-DataBase&theme=tokyonight&show_icons=true)](https://github.com/Wildeaso1/Ninjutsu-DataBase)
+[![Sakura Busdriver](https://github-readme-stats-wildeaso1s-projects.vercel.app/api/pin/?username=Wildeaso1&repo=Sakura-Busdriver&theme=tokyonight&show_icons=true)](https://github.com/Wildeaso1/Sakura-Busdriver)
 
 ---
 <h2 align="center">
@@ -31,4 +31,3 @@ Contact!<br>
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="100"/>
 </a>
 </h2>
-
